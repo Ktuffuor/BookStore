@@ -1,0 +1,859 @@
+{
+  "BookStoreAPI.dll": {
+    "C:\\Users\\hp\\source\\repos\\BookStore\\BookStoreAPI\\Program.cs": {
+      "Program": {
+        "System.Void Program::<Main>$(System.String[])": {
+          "Lines": {
+            "10": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "36": 0,
+            "39": 0,
+            "40": 0,
+            "43": 0,
+            "44": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "57": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "72": 0,
+            "74": 0,
+            "77": 0,
+            "78": 0,
+            "80": 0,
+            "81": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\BookStore\\BookStoreAPI\\Services\\AuthService.cs": {
+      "BookStoreAPI.Services.AuthService": {
+        "System.Void BookStoreAPI.Services.AuthService::.ctor(BookStoreAPI.Data.ApplicationDbContext,BookStoreAPI.Services.TokenService)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      },
+      "BookStoreAPI.Services.AuthService/<LoginAsync>d__4": {
+        "System.Void BookStoreAPI.Services.AuthService/<LoginAsync>d__4::MoveNext()": {
+          "Lines": {
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0
+          },
+          "Branches": [
+            {
+              "Line": 40,
+              "Offset": 316,
+              "EndOffset": 318,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 316,
+              "EndOffset": 357,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 362,
+              "EndOffset": 364,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 362,
+              "EndOffset": 375,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "BookStoreAPI.Services.AuthService/<RegisterAsync>d__3": {
+        "System.Void BookStoreAPI.Services.AuthService/<RegisterAsync>d__3::MoveNext()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "31": 0,
+            "32": 0,
+            "34": 0,
+            "35": 0
+          },
+          "Branches": [
+            {
+              "Line": 21,
+              "Offset": 313,
+              "EndOffset": 315,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 313,
+              "EndOffset": 326,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\BookStore\\BookStoreAPI\\Services\\BookService.cs": {
+      "BookStoreAPI.Services.BookService": {
+        "System.Void BookStoreAPI.Services.BookService::.ctor(BookStoreAPI.Data.ApplicationDbContext)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      },
+      "BookStoreAPI.Services.BookService/<CreateAsync>d__4": {
+        "System.Void BookStoreAPI.Services.BookService/<CreateAsync>d__4::MoveNext()": {
+          "Lines": {
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "46": 0,
+            "47": 0
+          },
+          "Branches": []
+        }
+      },
+      "BookStoreAPI.Services.BookService/<DeleteAsync>d__6": {
+        "System.Void BookStoreAPI.Services.BookService/<DeleteAsync>d__6::MoveNext()": {
+          "Lines": {
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0
+          },
+          "Branches": [
+            {
+              "Line": 66,
+              "Offset": 198,
+              "EndOffset": 200,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 198,
+              "EndOffset": 207,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "BookStoreAPI.Services.BookService/<GetAllAsync>d__2": {
+        "System.Void BookStoreAPI.Services.BookService/<GetAllAsync>d__2::MoveNext()": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "25": 0,
+            "26": 0
+          },
+          "Branches": [
+            {
+              "Line": 20,
+              "Offset": 94,
+              "EndOffset": 99,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 94,
+              "EndOffset": 240,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "BookStoreAPI.Services.BookService/<GetByIdAsync>d__3": {
+        "System.Void BookStoreAPI.Services.BookService/<GetByIdAsync>d__3::MoveNext()": {
+          "Lines": {
+            "29": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": []
+        }
+      },
+      "BookStoreAPI.Services.BookService/<UpdateAsync>d__5": {
+        "System.Void BookStoreAPI.Services.BookService/<UpdateAsync>d__5::MoveNext()": {
+          "Lines": {
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0
+          },
+          "Branches": [
+            {
+              "Line": 52,
+              "Offset": 198,
+              "EndOffset": 200,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 52,
+              "Offset": 198,
+              "EndOffset": 207,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\BookStore\\BookStoreAPI\\Services\\TokenService.cs": {
+      "BookStoreAPI.Services.TokenService": {
+        "System.String BookStoreAPI.Services.TokenService::CreateToken(BookStoreAPI.Models.User)": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "27": 0,
+            "28": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "39": 0
+          },
+          "Branches": []
+        },
+        "System.Void BookStoreAPI.Services.TokenService::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\BookStore\\BookStoreAPI\\Models\\Book.cs": {
+      "BookStoreAPI.Models.Book": {
+        "System.Int32 BookStoreAPI.Models.Book::get_Id()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String BookStoreAPI.Models.Book::get_Name()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String BookStoreAPI.Models.Book::get_Category()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal BookStoreAPI.Models.Book::get_Price()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String BookStoreAPI.Models.Book::get_Description()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\BookStore\\BookStoreAPI\\Models\\User.cs": {
+      "BookStoreAPI.Models.User": {
+        "System.Int32 BookStoreAPI.Models.User::get_Id()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String BookStoreAPI.Models.User::get_Username()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String BookStoreAPI.Models.User::get_Email()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String BookStoreAPI.Models.User::get_PasswordHash()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\BookStore\\BookStoreAPI\\Migrations\\20250711054944_InitialCreate.cs": {
+      "BookStoreAPI.Migrations.InitialCreate": {
+        "System.Void BookStoreAPI.Migrations.InitialCreate::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0
+          },
+          "Branches": []
+        },
+        "System.Void BookStoreAPI.Migrations.InitialCreate::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\BookStore\\BookStoreAPI\\Migrations\\20250711054944_InitialCreate.Designer.cs": {
+      "BookStoreAPI.Migrations.InitialCreate": {
+        "System.Void BookStoreAPI.Migrations.InitialCreate::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "25": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "80": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\BookStore\\BookStoreAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs": {
+      "BookStoreAPI.Migrations.ApplicationDbContextModelSnapshot": {
+        "System.Void BookStoreAPI.Migrations.ApplicationDbContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "77": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\BookStore\\BookStoreAPI\\Middleware\\ErrorHandlingMiddleware.cs": {
+      "BookStoreAPI.Middleware.ErrorHandlingMiddleware": {
+        "System.Void BookStoreAPI.Middleware.ErrorHandlingMiddleware::.ctor(Microsoft.AspNetCore.Http.RequestDelegate,Microsoft.Extensions.Logging.ILogger`1<BookStoreAPI.Middleware.ErrorHandlingMiddleware>)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      },
+      "BookStoreAPI.Middleware.ErrorHandlingMiddleware/<Invoke>d__3": {
+        "System.Void BookStoreAPI.Middleware.ErrorHandlingMiddleware/<Invoke>d__3::MoveNext()": {
+          "Lines": {
+            "18": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\BookStore\\BookStoreAPI\\DTOs\\BookDto.cs": {
+      "BookStoreAPI.DTOs.BookDto": {
+        "System.String BookStoreAPI.DTOs.BookDto::get_Name()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String BookStoreAPI.DTOs.BookDto::get_Category()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal BookStoreAPI.DTOs.BookDto::get_Price()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String BookStoreAPI.DTOs.BookDto::get_Description()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\BookStore\\BookStoreAPI\\DTOs\\LoginDto.cs": {
+      "BookStoreAPI.DTOs.LoginDto": {
+        "System.String BookStoreAPI.DTOs.LoginDto::get_Username()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String BookStoreAPI.DTOs.LoginDto::get_Password()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\BookStore\\BookStoreAPI\\DTOs\\RegisterDto.cs": {
+      "BookStoreAPI.DTOs.RegisterDto": {
+        "System.String BookStoreAPI.DTOs.RegisterDto::get_Username()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String BookStoreAPI.DTOs.RegisterDto::get_Email()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String BookStoreAPI.DTOs.RegisterDto::get_Password()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\BookStore\\BookStoreAPI\\Data\\ApplicationDbContext.cs": {
+      "BookStoreAPI.Data.ApplicationDbContext": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<BookStoreAPI.Models.User> BookStoreAPI.Data.ApplicationDbContext::get_Users()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<BookStoreAPI.Models.Book> BookStoreAPI.Data.ApplicationDbContext::get_Books()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Void BookStoreAPI.Data.ApplicationDbContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<BookStoreAPI.Data.ApplicationDbContext>)": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\BookStore\\BookStoreAPI\\Controllers\\AuthController.cs": {
+      "BookStoreAPI.Controllers.AuthController": {
+        "System.Void BookStoreAPI.Controllers.AuthController::.ctor(BookStoreAPI.Services.AuthService)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      },
+      "BookStoreAPI.Controllers.AuthController/<Login>d__3": {
+        "System.Void BookStoreAPI.Controllers.AuthController/<Login>d__3::MoveNext()": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        }
+      },
+      "BookStoreAPI.Controllers.AuthController/<Register>d__2": {
+        "System.Void BookStoreAPI.Controllers.AuthController/<Register>d__2::MoveNext()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\BookStore\\BookStoreAPI\\Controllers\\BookController.cs": {
+      "BookStoreAPI.Controllers.BooksController": {
+        "System.Void BookStoreAPI.Controllers.BooksController::.ctor(BookStoreAPI.Services.BookService)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      },
+      "BookStoreAPI.Controllers.BooksController/<Create>d__4": {
+        "System.Void BookStoreAPI.Controllers.BooksController/<Create>d__4::MoveNext()": {
+          "Lines": {
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0
+          },
+          "Branches": []
+        }
+      },
+      "BookStoreAPI.Controllers.BooksController/<Delete>d__6": {
+        "System.Void BookStoreAPI.Controllers.BooksController/<Delete>d__6::MoveNext()": {
+          "Lines": {
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0
+          },
+          "Branches": [
+            {
+              "Line": 53,
+              "Offset": 150,
+              "EndOffset": 152,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 53,
+              "Offset": 150,
+              "EndOffset": 169,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "BookStoreAPI.Controllers.BooksController/<Get>d__3": {
+        "System.Void BookStoreAPI.Controllers.BooksController/<Get>d__3::MoveNext()": {
+          "Lines": {
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 157,
+              "EndOffset": 159,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 157,
+              "EndOffset": 183,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "BookStoreAPI.Controllers.BooksController/<GetAll>d__2": {
+        "System.Void BookStoreAPI.Controllers.BooksController/<GetAll>d__2::MoveNext()": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0
+          },
+          "Branches": []
+        }
+      },
+      "BookStoreAPI.Controllers.BooksController/<Update>d__5": {
+        "System.Void BookStoreAPI.Controllers.BooksController/<Update>d__5::MoveNext()": {
+          "Lines": {
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0
+          },
+          "Branches": [
+            {
+              "Line": 46,
+              "Offset": 163,
+              "EndOffset": 165,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 163,
+              "EndOffset": 188,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}
