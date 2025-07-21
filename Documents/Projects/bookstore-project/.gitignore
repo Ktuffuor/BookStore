@@ -1,0 +1,50 @@
+# General ignores
+.DS_Store
+.env
+.vscode/ # Optional: If you don't want to share VS Code settings
+
+# Backend (.NET Core) specific ignores
+# Referencing the .NET Core template .gitignore
+/backend/bin/
+/backend/obj/
+/backend/.vs/
+/backend/publish/
+/backend/*.user
+/backend/*.suo
+/backend/appsettings.Development.json # If it contains sensitive info not for repo
+/backend/appsettings.Production.json  # If it contains sensitive info not for repo
+# Add any other sensitive config files you create
+/backend/TestResults/ # Ignore test results folder
+/backend/BookStoreAPI.Tests/bin/ # Specific bin for test project
+/backend/BookStoreAPI.Tests/obj/ # Specific obj for test project
+
+# Frontend (React) specific ignores
+# Referencing the Create React App template .gitignore
+/frontend/node_modules/
+/frontend/build/
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+/frontend/.env*.local
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+# Add any other sensitive config files you create
+
+# Ignore the .txt versions if they were committed
+.gitignore.txt
+README.md.txt
+
+# System/User Specific Ignores (based on common files that shouldn't be in repo)
+# These were not in your git ls-files output, but are good to have for general hygiene
+.anaconda/
+.cache/
+.conda/
+.continuum/
+.dotnet/
+.nuget/
+.bash_history
+.condarc
+.gitconfig
+.lesshst
